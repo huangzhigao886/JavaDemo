@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="user1" class="com.hzg.model.User">
+        <property name="name" value="张三"></property>
+        <property name="sex" value="女"></property>
+    </bean>
+    <bean id="user2" class="com.hzg.model.User">
+        <property name="name" value="李四"></property>
+        <property name="sex" value="男"></property>
+    </bean>
+</beans>
