@@ -7,7 +7,7 @@ import org.apache.kafka.common.serialization.StringSerializer;
 
 import java.util.Properties;
 
-/**
+/**异步发送API
  * @Author: huangzhigao
  * @Date: 2019/12/21 23:54
  */
