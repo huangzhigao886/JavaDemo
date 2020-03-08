@@ -9,7 +9,6 @@ import org.apache.hadoop.hbase.client.*;
 import org.apache.hadoop.hbase.filter.*;
 import org.apache.hadoop.hbase.util.Bytes;
 
-import javax.sound.midi.Soundbank;
 import java.io.IOException;
 
 /**
